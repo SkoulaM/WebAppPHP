@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webapplab-prague-80356'
           slot-name: 'test'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A71C6ED5908A42D583F688039DDA86C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AAA4A02DB234823A70D4FBBCB8AA71D }}
           package: .
